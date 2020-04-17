@@ -1,0 +1,9 @@
+{
+  "name": "root",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
