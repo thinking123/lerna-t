@@ -13,5 +13,6 @@
     "@babel/cli": "^7.8.4",
     "@babel/plugin-transform-modules-amd": "^7.8.3",
     "jquery": "^3.5.0"
-  }
+  },
+  "gitHead": "ed4616cbe14f2c120d0e03a0837553cdd904d956"
 }
