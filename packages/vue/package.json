@@ -1,7 +1,7 @@
 {
   "name": "tk-tsv",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "@babel/plugin-transform-async-to-generator": "^7.8.3",
     "@babel/plugin-transform-modules-amd": "^7.8.3",
     "jquery": "^3.5.0",
-    "tk-tsact": "1.0.0"
+    "tk-tsact": "^1.0.1"
   },
   "gitHead": "ed4616cbe14f2c120d0e03a0837553cdd904d956"
 }
