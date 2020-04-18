@@ -1,4 +1,4 @@
-const { react } = require("react");
+const { react } = require("tk-tsact");
 function vue() {
   console.log("vue");
   react();

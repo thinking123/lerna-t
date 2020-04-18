@@ -1,5 +1,6 @@
 {
-  "name": "vue",
+  "name": "tk-tsv",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +14,8 @@
   "dependencies": {
     "@babel/plugin-transform-async-to-generator": "^7.8.3",
     "@babel/plugin-transform-modules-amd": "^7.8.3",
-    "jquery": "^3.5.0"
+    "jquery": "^3.5.0",
+    "tk-tsact": "1.0.0"
   },
   "gitHead": "ed4616cbe14f2c120d0e03a0837553cdd904d956"
 }
